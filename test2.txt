@@ -3,3 +3,4 @@ step 2 will be committed
 step 3
 step 4
 setp 5
+step 6
